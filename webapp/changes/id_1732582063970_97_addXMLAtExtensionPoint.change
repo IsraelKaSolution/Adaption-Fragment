@@ -1,0 +1,38 @@
+{
+  "fileName": "id_1732582063970_97_addXMLAtExtensionPoint",
+  "fileType": "change",
+  "changeType": "addXMLAtExtensionPoint",
+  "moduleName": "customer/customer/student11/ux402adaptation/changes/fragments/FlightsCarrierDetails.fragment.xml",
+  "reference": "customer.customer.student11.ux402adaptation",
+  "packageName": "$TMP",
+  "content": {
+    "fragmentPath": "fragments/FlightsCarrierDetails.fragment.xml"
+  },
+  "selector": {
+    "name": "carrierdetails",
+    "viewSelector": {
+      "id": "Flights",
+      "idIsLocal": true
+    }
+  },
+  "layer": "CUSTOMER_BASE",
+  "texts": {},
+  "namespace": "apps/student11.com.sap.training.ux402.fullscreen.ux402fullscreen/adapt/customer.customer.student11.ux402adaptation/changes/",
+  "projectId": "customer.customer.student11.ux402adaptation",
+  "creation": "2024-11-26T00:48:37.134Z",
+  "originalLanguage": "EN",
+  "support": {
+    "generator": "@sap-ux/control-property-editor",
+    "service": "",
+    "user": "",
+    "sapui5Version": "1.96.31",
+    "sourceChangeFileName": "",
+    "compositeCommand": "id_1732582063970_98_composite",
+    "command": "addXMLAtExtensionPoint"
+  },
+  "oDataInformation": {},
+  "dependentSelector": {},
+  "jsOnly": false,
+  "variantReference": "",
+  "appDescriptorChange": false
+}
